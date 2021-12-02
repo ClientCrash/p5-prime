@@ -1,2 +1,4 @@
-# p5-prime-1
-Print primes as stripes with p5js.
+# Primes
+## Render primes with p5js.
+#### For Education
+Might be very slow.
